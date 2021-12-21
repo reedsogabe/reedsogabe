@@ -1,7 +1,8 @@
 ![](Images/Graphic1.png)
 ## Previous Works
 ►Springer Nature: Advances in Artifical Intelligence 2021
->[Impact of Domain Knowledge Quality on Inverse Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-030-73113-7_9)  
+>[Impact of Domain Knowledge Quality on Inverse Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-030-73113-7_9)  <br />
+
 >[Full PDF of Springer Publication Accessible at Research Gate](https://www.researchgate.net/publication/353414509_Impact_of_Domain_Knowledge_Quality_on_Inverse_Reinforcement_Learning)
 
 ► JSAI 2020 (34th Annual Conference of the Japanese Society for Artificial Intelligence)<br />
