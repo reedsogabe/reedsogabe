@@ -1,16 +1,16 @@
 ![](Images/Graphic1.png)
 ## Previous Works
-►SDEWES 2022, 17th Conference on Sustainable Development of Energy, Water and Environment Systems
+►SDEWES 2022: 17th Conference on Sustainable Development of Energy, Water and Environment Systems
 >Optimization of Energy Systems through Multiagent Reinforcement Learning with Risk Mitigation
 
 >[Full PDF of SDEWES Conference Paper Accessible at Research Gate](https://www.researchgate.net/publication/365316134_Optimization_of_Energy_Systems_through_Multiagent_Reinforcement_Learning_with_Risk_Mitigation)  <br />
 
-►Springer Nature: Advances in Artificial Intelligence 2021
+►Springer Nature 2021 Publication: Advances in Artificial Intelligence 2021
 >[Impact of Domain Knowledge Quality on Inverse Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-030-73113-7_9)  <br />
 
 >[Full PDF of Springer Publication Accessible at Research Gate](https://www.researchgate.net/publication/353414509_Impact_of_Domain_Knowledge_Quality_on_Inverse_Reinforcement_Learning)
 
-► JSAI 2020 (34th Annual Conference of the Japanese Society for Artificial Intelligence)<br />
+► JSAI 2020: 34th Annual Conference of the Japanese Society for Artificial Intelligence)<br />
 >[Bootstrapping Baysian Inverse Reinforcement Learning in Robotics through VR Demonstrations](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_2G1ES402/_article/-char/en)
 
 
