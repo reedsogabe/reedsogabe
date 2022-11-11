@@ -2,6 +2,7 @@
 ## Previous Works
 ►SDEWES 2022, 17th Conference on Sustainable Development of Energy, Water and Environment Systems
 >Optimization of Energy Systems through Multiagent Reinforcement Learning with Risk Mitigation
+
 >[Full PDF of SDEWES Conference Paper Accessible at Research Gate](https://www.researchgate.net/publication/365316134_Optimization_of_Energy_Systems_through_Multiagent_Reinforcement_Learning_with_Risk_Mitigation)  <br />
 
 ►Springer Nature: Advances in Artificial Intelligence 2021
