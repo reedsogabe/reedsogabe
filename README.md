@@ -10,7 +10,7 @@
 
 >[Full PDF of Springer Publication Accessible at Research Gate](https://www.researchgate.net/publication/353414509_Impact_of_Domain_Knowledge_Quality_on_Inverse_Reinforcement_Learning)
 
-► JSAI 2020: 34th Annual Conference of the Japanese Society for Artificial Intelligence)<br />
+► JSAI 2020: 34th Annual Conference of the Japanese Society for Artificial Intelligence <br />
 >[Bootstrapping Baysian Inverse Reinforcement Learning in Robotics through VR Demonstrations](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_2G1ES402/_article/-char/en)
 
 
