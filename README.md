@@ -1,9 +1,8 @@
 ![](Images/Graphic1.png)
 ## Previous Works
 ►SDEWES 2022, 17th Conference on Sustainable Development of Energy, Water and Environment Systems
->[Optimization of Energy Systems through Multiagent Reinforcement Learning with Risk Mitigation]
->[Optimization of Energy Systems through Multiagent Reinforcement Learning with Risk Mitigation
-](https://www.researchgate.net/publication/365316134_Optimization_of_Energy_Systems_through_Multiagent_Reinforcement_Learning_with_Risk_Mitigation)  <br />
+>Optimization of Energy Systems through Multiagent Reinforcement Learning with Risk Mitigation
+>[Full PDF of SDEWES Conference Paper Accessible at Research Gate](https://www.researchgate.net/publication/365316134_Optimization_of_Energy_Systems_through_Multiagent_Reinforcement_Learning_with_Risk_Mitigation)  <br />
 
 ►Springer Nature: Advances in Artificial Intelligence 2021
 >[Impact of Domain Knowledge Quality on Inverse Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-030-73113-7_9)  <br />
